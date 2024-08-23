@@ -18,6 +18,8 @@ blog to the most popular websites in the world. PHP is distributed under the
 [![Build status](https://travis-ci.com/php/php-src.svg?branch=master)](https://travis-ci.com/github/php/php-src)
 [![Fuzzing Status](https://oss-fuzz-build-logs.storage.googleapis.com/badges/php.svg)](https://bugs.chromium.org/p/oss-fuzz/issues/list?sort=-opened&can=1&q=proj:php)
 
+commit test
+
 ## Documentation
 
 The PHP manual is available at [php.net/docs](https://www.php.net/docs).
